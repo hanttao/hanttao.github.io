@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我的博客新鲜出炉</title>
+    <url>/2020/11/11/hello-world/</url>
+    <content><![CDATA[<pre><code>学的东西，很零碎，学了忘，用的时候又开始找，很费时间，所以自己建个博客，记录下学习碎片，整理起来，以备后续所用。文章如有错误，还请路过的大佬批评指正！</code></pre>
+]]></content>
+  </entry>
+  <entry>
     <title>arcgis学习-离线部署</title>
     <url>/2020/11/11/arcgis%E5%AD%A6%E4%B9%A0-%E7%A6%BB%E7%BA%BF%E9%83%A8%E7%BD%B2/</url>
     <content><![CDATA[<ol>
@@ -8,12 +14,6 @@
 <li>本地搭建服务, IIS服务, nginx代理服务等等, 下载的文件部署上去</li>
 <li>修改两个文件init.js和dojo/dojo.js, 内容为<code>https://[HOSTNAME_AND_PATH_TO_JSAPI]</code>修改为你本地部署访问dojo文件夹的地址，例如:<code>http://localhost:8088/arcgis_js_api/arcgis_js_v417_api/arcgis_js_api/library/4.17/</code>, 这就离线部署完成了, 把在线地址替换成离线服务的地址验证是否部署成功。<br><img src="/images/arcgis/001.png" alt="arcgis_api"><br><img src="/images/arcgis/002.png" alt="arcgis_api"></li>
 </ol>
-]]></content>
-  </entry>
-  <entry>
-    <title>我的博客新鲜出炉</title>
-    <url>/2020/11/11/hello-world/</url>
-    <content><![CDATA[<pre><code>学的东西，很零碎，学了忘，用的时候又开始找，很费时间，所以自己建个博客，记录下学习碎片，整理起来，以备后续所用。文章如有错误，还请路过的大佬批评指正！</code></pre>
 ]]></content>
   </entry>
 </search>
